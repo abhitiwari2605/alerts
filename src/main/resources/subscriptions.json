@@ -1,0 +1,26 @@
+[
+  {
+    "email":"abhishektiwari2605@gmail.com",
+    "age":18,
+    "pincode":"143001",
+    "enabled":true
+  },
+  {
+    "email":"gaurav.leo27@gmail.com",
+    "age":18,
+    "pincode":"143001",
+    "enabled":true
+  },
+  {
+    "email":"23himanshu92@gmail.com",
+    "age":18,
+    "pincode":"110001",
+    "enabled":true
+  },
+  {
+    "email":"23himanshu92@gmail.com",
+    "age":45,
+    "pincode":"110001",
+    "enabled":true
+  }
+]
